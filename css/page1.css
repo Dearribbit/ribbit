@@ -1,0 +1,63 @@
+
+[class^="m"]{
+    width: 100%;
+}
+
+.left
+{
+    float: left;
+}
+
+.right
+{
+    float: right;
+}
+
+#m1 .botton
+{
+    margin-left: 400px;
+    margin-top: 600px;
+}
+
+#m1_left
+{
+    width: 60%;
+    height: 800px;
+    background-color: #fce9f2;
+    float: left;
+}
+
+#m1_left .tit
+{
+    width: 700px;
+    height: 300px;
+}
+#m1_left .content .title
+{
+    text-align: center;
+}
+#m1_left .content h1
+{
+    font-size: 82px;
+    font-weight: bolder;
+    line-height: 82px;
+}
+
+#m1_left .content p
+{
+    width: 400px;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: left;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+#m1_right
+{
+    width: 40%;
+    float: left;
+    background: url("../img/timgEGDJEQGL.gif") no-repeat;
+    background-size: cover;
+    height: 800px;
+}

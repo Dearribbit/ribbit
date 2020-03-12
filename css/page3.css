@@ -1,0 +1,51 @@
+.m3
+{
+    width: 1440px;
+    height: 800px;
+    background: url("../img/background333.png") no-repeat;
+    background-size: cover;
+}
+
+.m3 .left_cont
+{
+    width: 500px;
+    text-align: center;
+    padding-top: 200px;
+    float: left;
+}
+
+.m3 .left_cont h1
+{
+    font-weight: bolder;
+    font-size: 50px;
+    color: #983e24;
+}
+
+.m3 .left_cont .tit
+{
+    margin-bottom: 100px;
+}
+
+.m3 .left_cont .cont p
+{
+    color: white;
+    font-size: 16px;
+    line-height: 20px;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.m3 .botton
+{
+    margin-left: 1200px;
+}
+
+.m3 .right_cont
+{
+    width: 390px;
+    float: right;
+    font-size: 18px;
+    line-height: 26px;
+    padding-top: 210px;
+    margin-bottom: 300px;
+}

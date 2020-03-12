@@ -1,0 +1,26 @@
+.m2
+{
+    width: 1440px;
+    height: 800px;
+    background: url("../img/background2.png") no-repeat;
+    background-size: cover;
+}
+
+.m2 .txt
+{
+    width: 700px;
+    padding-top: 300px;
+}
+
+.m2 .txt p
+{
+    width: 490px;
+    margin-left: 46px;
+    font-size: 18px;
+    margin-bottom: 54px;
+}
+
+.m2 .botton
+{
+    margin-left: 1252px;
+}

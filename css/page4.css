@@ -1,0 +1,33 @@
+.m4
+{
+
+    background: url("../img/background111.png") no-repeat;
+    background-size: 100%;
+    width: 1440px;
+    height: 750px;
+
+}
+
+.botton img
+{
+    height: 40px;
+    width: 120px;
+}
+
+.m4 .botton
+{
+    margin-left: 1110px;
+    padding-top: 220px;
+}
+
+.m4 .tit
+{
+    width: 600px;
+    margin: 0 auto;
+    padding-top: 300px;
+}
+
+.m4 .tit img
+{
+    width: 600px;
+}
